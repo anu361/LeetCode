@@ -18,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu361/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## String
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
