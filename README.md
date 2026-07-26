@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
