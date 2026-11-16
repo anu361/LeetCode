@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anu361/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anu361/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
+| [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/anu361/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu361/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
+| [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 ## Greedy
 |  |
 | ------- |
@@ -136,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anu361/LeetCode/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
