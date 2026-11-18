@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/anu361/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/anu361/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu361/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anu361/LeetCode/tree/master/0020-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anu361/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/anu361/LeetCode/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/anu361/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anu361/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/anu361/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/anu361/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anu361/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
 ## Tree
 |  |
 | ------- |
