@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anu361/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anu361/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/anu361/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
