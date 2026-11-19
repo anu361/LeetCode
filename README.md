@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anu361/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/anu361/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anu361/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anu361/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/anu361/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/anu361/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anu361/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
