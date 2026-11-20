@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu361/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anu361/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/anu361/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anu361/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/anu361/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anu361/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/anu361/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -114,9 +117,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/anu361/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -173,4 +178,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
