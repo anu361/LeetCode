@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anu361/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/anu361/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anu361/LeetCode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/anu361/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/anu361/LeetCode/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
 | [0345-reverse-vowels-of-a-string](https://github.com/anu361/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/anu361/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anu361/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
