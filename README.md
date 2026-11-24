@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/anu361/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anu361/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu361/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anu361/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anu361/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/anu361/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anu361/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anu361/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting Sort
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anu361/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anu361/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anu361/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/anu361/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/anu361/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/anu361/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 ## Quicksort
 |  |
