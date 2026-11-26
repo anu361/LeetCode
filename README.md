@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anu361/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/anu361/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/anu361/LeetCode/tree/master/0724-find-pivot-index) |
 | [0973-k-closest-points-to-origin](https://github.com/anu361/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/anu361/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/anu361/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -287,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anu361/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/anu361/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
