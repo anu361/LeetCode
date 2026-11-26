@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/anu361/LeetCode/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/anu361/LeetCode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anu361/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/anu361/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/anu361/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/anu361/LeetCode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/anu361/LeetCode/tree/master/0089-gray-code) |
 | [0287-find-the-duplicate-number](https://github.com/anu361/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/anu361/LeetCode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anu361/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/anu361/LeetCode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/anu361/LeetCode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/anu361/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
+| [0342-power-of-four](https://github.com/anu361/LeetCode/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
