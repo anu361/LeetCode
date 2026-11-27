@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anu361/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anu361/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anu361/LeetCode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/anu361/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/anu361/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0224-basic-calculator](https://github.com/anu361/LeetCode/tree/master/0224-basic-calculator) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/anu361/LeetCode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/anu361/LeetCode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/anu361/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anu361/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0629-k-inverse-pairs-array](https://github.com/anu361/LeetCode/tree/master/0629-k-inverse-pairs-array) |
@@ -296,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/anu361/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/anu361/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/anu361/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
